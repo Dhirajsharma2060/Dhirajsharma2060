@@ -116,10 +116,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirajsharma2060&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" alt="Top Languages"/>
 </div>
 
+<!-- GitHub Trophy is down right now
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhirajsharma2060&theme=discord&no-frame=true&column=7" alt="GitHub Trophies"/>
 </div>
+-->
 
 ## 🌐 Connect With Me
 <div align="center">
