@@ -110,7 +110,8 @@
 <div align="center">
   <!--img src="https://github-readme-stats.vercel.app/api?username=Dhirajsharma2060&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats"/>-->
   <img src="https://github-readme-stats.vercel.app/api?username=Dhirajsharma2060&theme=tokyonight&hide_border=false&include_all_commits=true&cache_seconds=86400" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhirajsharma2060&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhirajsharma2060&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/> -->
+  <img src="https://streak-stats.demolab.com/?user=Dhirajsharma2060&theme=tokyonight&hide_border=false" width="45%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
