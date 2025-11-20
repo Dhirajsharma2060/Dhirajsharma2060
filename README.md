@@ -6,11 +6,14 @@
 
 ## 💫 About Me
 
-- 🎓 Final year Computer Engineering student at University of Mumbai
-- 🔭 Passionate about backend development with Golang,Python, FastAPI, Flask, ExpressJs and NodeJS
-- 🌱 Currently learning real-time applications and cloud technologies
-- 👯 Looking to collaborate on innovative web development, ML, or blockchain projects
+- 🎓 Fresher Computer Engineering Graduate from the University of Mumbai
+- 🔭 Strong interest in backend development and system design—love understanding how things work under the hood
+- 💻 Skilled with Python, Django, FastAPI, Flask, Golang, Express.js, and Node.js
+- 🌱 Currently exploring real-time applications, cloud technologies, and scalable architectures
+- 👯 Open to collaborating on impactful backend, web development, or infrastructure-focused projects
+- 🛠️ GSSoC’25 Open Source Contributor, passionate about building and contributing to community-driven software
 - 💻 Built a custom Git clone tool in Python, implementing Git objects and compression from scratch!
+- 🔍 Actively looking for technical opportunities where I can learn, build, and contribute
 
 <br>
 
